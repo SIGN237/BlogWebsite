@@ -9,7 +9,7 @@ categories: [
     "nft",
     "crypto",
 ]
-thumbnail: "images/landscape.jpg"
+thumbnail: "images/code.jpg"
 ---
 
 Just some notes I'm going to make to store it on the web about NFTs and the like!
