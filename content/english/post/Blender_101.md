@@ -16,15 +16,51 @@ Just some notes I made while following along with this [basic 101 blender tutori
 
 - You can download the associated “.blend” file [here](www.google.com). This file is the result of my work after following along with the steps in the YouTube video.
 
-# Moving Objects
+
+# Selecting Objects
 
 You start out in the 3D viewport.
+
+- “A” to select all objects.
+- “A A” to de-select all objects.
+
+# Deleting Objects
+
+When an object is selected you can delete it with:
+
+- “Delete key” to delete the selected object.
+- “X” to delete the selected object.
+
+# Add Objects
+
+You can add any object by hitting “Shift + A”.
+
+# Duplicating Objects
+
+You can duplicate an object by selecting it and hitting “Shift + D”.
+
+# Moving Objects
 
 - “G” to grab items and move them around.
 - “X”, “Y”, and “Z” to snap to an axis and move along it.
 - “Esc” or right click to cancel.
 - Left click or enter to commit to the move.
 - “Control + Z” to undo.
+- “Shift + Control + Z” to redo.
+
+Alternatively, you can use “Middle Click and Hold” to change axis. This will let you choose on which axis to move the object then you can leT go and continue moving it on that axis.
+
+# Rotating Objects
+
+- “R” to rotate items.
+- “R R” to go to track ball rotation.
+- “X”, “Y”, and “Z” to snap to an axis and rotate along it.
+- “Esc” or right click to cancel.
+- Left click or enter to commit to the move.
+- “Control + Z” to undo.
+- “Shift + Control + Z” to redo.
+
+Alternatively, you can use “Middle Click and Hold” to change axis of rotation as previously mentioned.
 
 # Scaling Objects
 
@@ -32,6 +68,14 @@ You start out in the 3D viewport.
 - Global by default (scales equally in all directions).
 - “X”, “Y”, or “Z” to choose an axis to scale along.
 - “Esc” or right click to cancel.
+- “Shift + Control + Z” to redo.
+
+Alternatively, you can use “Middle Click and Hold” to change axis of scaling as previously mentioned.
+
+# Hide Objedcts
+
+- “H” to hide object.
+- “Alt + H” to un-hide object.
 
 # Changing Your Viewpoint
 
@@ -83,6 +127,8 @@ If you are on a laptop and don’t have a full size keyboard with a number pad, 
 
 ![Screenshot](/images/blender/screenshot_6.png)
 
+Also, you can use “Shift + B”, then *drag over area* to center the view on the object dragged on.
+
 ### Align With A Particular Axis(X, Y, Z)
 
 There are several ways to align the viewport to a particular axis. The first is to use the orbiter tool (click on one of the three letters, “X”, “Y” or “Z”) on the orbiter tool:
@@ -117,6 +163,10 @@ If you look closely at the second picture, you’ll notice the grid lines are he
 - Using tilde “~” while an object is selected, to open the view menu.
 - Alt + middle mouse button while orbiting will snap the view to each axis as you orbit.
 
+### Move 3D Cursor
+
+Use "Shift + Right Click" to move the 3D Cursor on the 3D Viewport.
+
 # Dealing With Blender If You Are Used To Other 3D Software
 
 Under settings, you can use a more standard key map by going to: Edit -> Preferences - Key map and choosing **Industry-standard Key map.**
@@ -137,9 +187,6 @@ The “Collection” is an organized view of all the items in the scene (objects
 
 ![Screenshot](/images/blender/screenshot_13.png)
 
-## Duplicating Objects
-
-You can duplicate an object by selecting it and hitting “Shift + D”.
 
 ## Viewing Your Scene From The Camera
 
@@ -152,3 +199,8 @@ When you render a scene in Blender, the render is performed from the perspective
 
 3. View -> Viewport -> Camera from the top menu bar.
 4. Tilde “~”, then choose “Camera View”.
+
+# Toggle Panels
+
+- “T” to toggle on or off the Left Panel.
+- “N” to toggle on or off the Right Panel.
