@@ -5,6 +5,7 @@ Description: "Some small lessons I made for Survey of Calculus"
 Tags: []
 Categories: ["blog","math","lessons"]
 DisableComments: false
+thumbnail: "images/math.jpg"
 ---
 Some small lessons I made for Survey of Calculus
 <!--more-->
