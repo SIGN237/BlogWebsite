@@ -68,3 +68,40 @@ list, where items are inserted at one end called the rear and deleted at the oth
 5. 
 
 6. ![Screenshot](/images/ds/9_.png)
+
+7. ![Screenshot](/images/ds/10_.png)
+
+## PART II MCQ
+
+1. B
+2. A
+3. A
+4. B
+5. A
+6. A
+7. A
+8. D
+9. B
+10. B
+11. D
+12. D
+13. D
+14. B
+15. C
+16. D
+17. A
+18. B
+19. C
+20. B
+21. D
+22. D
+23. 
+24. D
+25. C
+26. A
+27. D
+28. D
+29. D
+30. C
+31. D
+32. A
