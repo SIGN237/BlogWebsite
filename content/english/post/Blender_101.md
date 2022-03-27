@@ -1,5 +1,5 @@
 ---
-title: "Blender_101_1"
+title: "Blender Basics"
 date: 2022-03-13T17:15:33+01:00
 Description: "Just some notes I made while following along with this basic 101 blender tutorial."
 Tags: []

@@ -1,5 +1,5 @@
 ---
-title: "Blender_3Dhouse_1"
+title: "Modeling a house in Blender Pt 1"
 date: 2022-03-15T09:34:32+01:00
 Description: "Just some notes I made while following along with this 3D modeling house blender tutorial series."
 Tags: []
