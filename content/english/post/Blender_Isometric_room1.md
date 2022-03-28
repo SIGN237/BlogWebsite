@@ -350,4 +350,4 @@ This will apply this bevel settings to everything we selected. Now click on ever
 ![Screenshot](/images/iso_room1/62.png)
 
 * Click the wall and do the same.
-* 
+* Basically click on every part and change the color as you wish.
